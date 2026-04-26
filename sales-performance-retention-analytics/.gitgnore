@@ -1,0 +1,32 @@
+# Arquivos temporários
+
+*.log
+*.tmp
+
+# Arquivos do sistema
+
+.DS_Store
+Thumbs.db
+
+# Power BI
+
+*.pbix.lock
+
+# Python
+
+**pycache**/
+*.pyc
+
+# VS Code
+
+.vscode/
+
+# Dados grandes
+
+*.csv
+*.xlsx
+*.zip
+
+# Credenciais
+
+.env
