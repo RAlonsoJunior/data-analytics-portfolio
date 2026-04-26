@@ -107,22 +107,32 @@ Camadas:
 
 ## 📸 Visual do Projeto
 
-<img width="1462" height="818" alt="image" src="https://github.com/user-attachments/assets/8592818d-3183-4733-a653-33400a0209c3" />
+CAPA
+
+<img width="1462" height="818" alt="image" src="https://github.com/user-attachments/assets/8592818d-3183-4733-a653-33400a0209c3" /></BR>
 
 
-<img width="1460" height="818" alt="image" src="https://github.com/user-attachments/assets/eb0aed17-9cf2-4c36-96c2-bbb992c39d18" />
+OVERVIEW</BR>
+
+<img width="1460" height="818" alt="image" src="https://github.com/user-attachments/assets/eb0aed17-9cf2-4c36-96c2-bbb992c39d18" /></BR>
 
 
-<img width="1464" height="823" alt="image" src="https://github.com/user-attachments/assets/4b5b9942-5cfd-4fa5-a3bb-49dafb6da74e" />
+VENDAS & OPERAÇÃO</BR>
+
+<img width="1464" height="823" alt="image" src="https://github.com/user-attachments/assets/4b5b9942-5cfd-4fa5-a3bb-49dafb6da74e" /></BR>
 
 
-<img width="1458" height="824" alt="image" src="https://github.com/user-attachments/assets/f11d9531-53d3-47eb-af7a-6f1c98ee4e68" />
+CHURN & RETENÇÃOCHURN & RETENÇÃO | ANÁLISE DE RISCO E IMPACTO FINANCEIRO
 
+<img width="1458" height="824" alt="image" src="https://github.com/user-attachments/assets/f11d9531-53d3-47eb-af7a-6f1c98ee4e68" /></BR>
 
-<img width="1462" height="822" alt="image" src="https://github.com/user-attachments/assets/99b967f0-ea6b-4108-8dd6-c93b24ea52e1" />
+FUNIL</BR>
 
+<img width="1462" height="822" alt="image" src="https://github.com/user-attachments/assets/99b967f0-ea6b-4108-8dd6-c93b24ea52e1" /></BR>
 
-<img width="1460" height="821" alt="image" src="https://github.com/user-attachments/assets/c65c7d38-c4b1-4c61-bc32-85e42fe10c75" />
+INSIGHTS</BR>
+
+<img width="1460" height="821" alt="image" src="https://github.com/user-attachments/assets/c65c7d38-c4b1-4c61-bc32-85e42fe10c75" /></BR>
 
 
 ## Link da visualização
